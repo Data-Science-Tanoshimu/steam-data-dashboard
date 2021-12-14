@@ -18,3 +18,7 @@ The whole architecture is like the picture below.
 
 ![architecture](gcp_architecture.png)
 ---
+
+### App Display
+![pic1](app_1.png)
+![pic2](app_2.png)
