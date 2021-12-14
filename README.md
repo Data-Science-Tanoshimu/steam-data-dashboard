@@ -1,7 +1,15 @@
 # steam-data-dashboard
 
 ### Intro
-This GCP application is a streamlit-based dashboard that visualizes the daily max user data on the Steam platform. The data that the dashboard uses is gathered and formatted using a webscraping function built using GCP Cloud Run and the data is stored in a Cloud Storage bucket.
+This streamlit-based dashboard that visualizes the daily max user data on the Steam platform created using Cloud Run in GCP.
+
+This application uses the following GCP services:
+  - Cloud Schedule
+  - Cloud Pub/Sub
+  - Cloud Function
+  - Cloud Run
+  - Cloud Storage
+  - Cloud Container Registry
 
 ---
 
